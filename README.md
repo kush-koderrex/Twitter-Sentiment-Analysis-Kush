@@ -12,3 +12,4 @@ The project was completed under Mr. Akshay Gugnani under a timespan of 30 Days
 # Twitter-Sentiment-Analysis
 # Certificate
 <strong><a href = "https://github.com/kush-koderrex/Twitter-Sentiment-Analysis-Kush/blob/master/kush%20internship%20certificate.pdf">Certificate</a></strong><br>
+![](0001.jpg)
